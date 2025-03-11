@@ -91,3 +91,6 @@ AWS Elemental MediaConvert는 미디어 파일 변환을 위한 강력하고 확
 - [MediaConvert 작업 템플릿 관리 문서](https://docs.aws.amazon.com/mediaconvert/latest/ug/working-with-job-templates.html)  
 - [MediaConvert 대기열 관리 문서](https://docs.aws.amazon.com/mediaconvert/latest/ug/working-with-queues.html)  
 - [MediaConvert 문서 PDF 다운로드](https://docs.aws.amazon.com/pdfs/mediaconvert/latest/ug/mediaconvert-guide.pdf#what-is)
+
+
+DATE : 2025-03-10
